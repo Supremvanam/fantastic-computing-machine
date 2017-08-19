@@ -1,0 +1,13 @@
+git init to initialise
+git status to check if the files are committed/added to the repo
+git add to add file to the repo 
+git init (in root directory) to initialise
+git add to add every modified file
+git commit -m “Message” to commit
+vim filename to edit, i to insert, esc + :x to go back to command line
+git log to check all the commits
+git checkout timestamp to go to specific commit
+git branch to check which branch we’re in
+git checkout -b “branchName”
+git branch to check branches
+git pull origin master
